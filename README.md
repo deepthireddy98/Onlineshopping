@@ -1,4 +1,5 @@
-# Onlineshopping
+# Onlineshopping -- @Author -> deepthireddy98
+
 Developed an end to end Ecommerce web Application using Spring MVC with multiple modules
 
 Functionalities:
